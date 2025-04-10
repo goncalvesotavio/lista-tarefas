@@ -31,3 +31,6 @@
 Esse projeto tem como objetivo o desenvolvimento de uma aplicação web de uma lista de tarefas utilizando a biblioteca React, juntamente com a ferramenta Vite. No projeto, o usuário consegue adicionar, concluir e remover as tarefas que desejar, além de conseguir ordena-las por ordem alfabética e por ordem de adição.
 
 ![Image](https://github.com/user-attachments/assets/aa2ed43a-8620-48b9-87f7-687dd57f47ec)
+
+## Vídeo
+https://youtube.com/shorts/uMsmzns-17M?si=eKtm-LRlBx4DiNeg
