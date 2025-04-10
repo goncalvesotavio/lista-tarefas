@@ -30,4 +30,4 @@
 ## Funcionamento e objetivo do projeto:
 Esse projeto tem como objetivo o desenvolvimento de uma aplicação web de uma lista de tarefas utilizando a biblioteca React, juntamente com a ferramenta Vite. No projeto, o usuário consegue adicionar, concluir e remover as tarefas que desejar, além de conseguir ordena-las por ordem alfabética e por ordem de adição.
 
-![Tela da aplicação](./assets/captura.jpg)
+
